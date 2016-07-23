@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.14)  23 JUL 2016 07:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.14)  23 JUL 2016 08:36
 entering extended mode
 **./document.tex
 (document.tex
@@ -2100,12 +2100,15 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 72.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [6]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+Overfull \hbox (35.02081pt too wide) in paragraph at lines 120--151
+ [][][] 
+ []
 
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 188.
+ on input line 186.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [7]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2113,7 +2116,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 188.
+ on input line 186.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [8]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2121,7 +2124,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 188.
+ on input line 186.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [9])
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -3284,9 +3287,12 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 \tf@ptc=\write13
 \openout13 = `document.ptc'.
 
+
+
+Package datagidx Warning: Rerun required to sort the index/glossary databases.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
-
 (document.aux (introduction.aux) (literature_review.aux)
 (theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
 (results_and_discussion.aux) (conclusions.aux) (answers_to_questions.aux)
@@ -3301,10 +3307,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 36366 strings out of 493634
- 619819 string characters out of 3132381
- 1370001 words of memory out of 3000000
- 37800 multiletter control sequences out of 15000+200000
+ 36364 strings out of 493634
+ 619790 string characters out of 3132381
+ 1369293 words of memory out of 3000000
+ 37798 multiletter control sequences out of 15000+200000
  85032 words of font info for 332 fonts, out of 3000000 for 9000
  1033 hyphenation exceptions out of 8191
  65i,20n,126p,1503b,2039s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3348,7 +3354,7 @@ tic/uhvr8a.pfb><C:/Users/Noel Paulino/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmb8a.pfb><C:/Users/Noel Paulino/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Noel Paulino/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (102 pages, 1024467 bytes).
+Output written on document.pdf (102 pages, 1024696 bytes).
 PDF statistics:
  2191 PDF objects out of 2487 (max. 8388607)
  879 named destinations out of 1000 (max. 500000)
