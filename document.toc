@@ -3,12 +3,12 @@
 \contentsline {chapter}{Acknowledgment}{v}{section*.4}
 \contentsline {chapter}{Abstract}{vi}{section*.6}
 \contentsline {chapter}{Table of Contents}{vii}{section*.8}
-\contentsline {chapter}{List of Figures}{x}{section*.9}
-\contentsline {chapter}{List of Tables}{xi}{section*.10}
-\contentsline {chapter}{Abbreviations}{xii}{section*.11}
-\contentsline {chapter}{Notation}{xiii}{section*.13}
-\contentsline {chapter}{Glossary}{xiv}{section*.15}
-\contentsline {chapter}{Listings}{xv}{section*.17}
+\contentsline {chapter}{List of Figures}{xi}{section*.9}
+\contentsline {chapter}{List of Tables}{xii}{section*.10}
+\contentsline {chapter}{Abbreviations}{xiii}{section*.11}
+\contentsline {chapter}{Notation}{xiv}{section*.13}
+\contentsline {chapter}{Glossary}{xv}{section*.15}
+\contentsline {chapter}{Listings}{xvi}{section*.17}
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introduction}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background of the Study}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}Prior Studies}{3}{section.1.2}
@@ -29,7 +29,10 @@
 \contentsline {section}{\numberline {2.5}Discomfort Index Monitoring System}{16}{section.2.5}
 \contentsline {section}{\numberline {2.6}Air Quality Standards}{17}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{18}{chapter.3}
-\contentsline {section}{\numberline {3.1}Summary}{20}{section.3.1}
+\contentsline {section}{\numberline {3.1}Microcontroller based temperature humidity meter using Arduino Platform}{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}Discomfort Index}{19}{section.3.2}
+\contentsline {section}{\numberline {3.3}Bluetooth Technology}{20}{section.3.3}
+\contentsline {section}{\numberline {3.4}Comfortability indicator application at De La Salle university using Android platform}{20}{section.3.4}
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{22}{chapter.4}
 \contentsline {section}{\numberline {4.1}Summary}{25}{section.4.1}
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{26}{chapter.5}
@@ -43,7 +46,7 @@
 \contentsline {section}{\numberline {7.2}Contributions}{36}{section.7.2}
 \contentsline {section}{\numberline {7.3}Recommendations}{36}{section.7.3}
 \contentsline {section}{\numberline {7.4}Future Prospects}{38}{section.7.4}
-\contentsline {chapter}{References}{39}{section*.23}
+\contentsline {chapter}{References}{39}{section*.22}
 \contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{40}{appendix.A}
 \contentsline {section}{\numberline {A1}How important is the problem to practice?}{41}{section.A.1}
 \contentsline {section}{\numberline {A2}How will you know if the solution/s that you will achieve would be better than existing ones?}{41}{section.A.2}
@@ -82,5 +85,5 @@
 \contentsline {section}{\numberline {B11}Adding Relevant PDF Pages (e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.)}{79}{section.B.11}
 \contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{83}{appendix.C}
 \contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{85}{appendix.D}
-\contentsline {chapter}{Index}{87}{section*.50}
+\contentsline {chapter}{Index}{87}{section*.49}
 \contentsfinish 

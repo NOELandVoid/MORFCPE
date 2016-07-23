@@ -29,57 +29,60 @@
 \BOOKMARK [1][-]{section.2.5}{Discomfort Index Monitoring System}{chapter.2}% 29
 \BOOKMARK [1][-]{section.2.6}{Air Quality Standards}{chapter.2}% 30
 \BOOKMARK [0][-]{chapter.3}{Theoretical Considerations}{}% 31
-\BOOKMARK [1][-]{section.3.1}{Summary}{chapter.3}% 32
-\BOOKMARK [0][-]{chapter.4}{Design Considerations}{}% 33
-\BOOKMARK [1][-]{section.4.1}{Summary}{chapter.4}% 34
-\BOOKMARK [0][-]{chapter.5}{Methodology}{}% 35
-\BOOKMARK [1][-]{section.5.1}{Implementation}{chapter.5}% 36
-\BOOKMARK [1][-]{section.5.2}{Evaluation}{chapter.5}% 37
-\BOOKMARK [1][-]{section.5.3}{Summary}{chapter.5}% 38
-\BOOKMARK [0][-]{chapter.6}{Results and Discussion}{}% 39
-\BOOKMARK [1][-]{section.6.1}{Summary}{chapter.6}% 40
-\BOOKMARK [0][-]{chapter.7}{Conclusions, Recommendations, and Future Directives}{}% 41
-\BOOKMARK [1][-]{section.7.1}{Concluding Remarks}{chapter.7}% 42
-\BOOKMARK [1][-]{section.7.2}{Contributions}{chapter.7}% 43
-\BOOKMARK [1][-]{section.7.3}{Recommendations}{chapter.7}% 44
-\BOOKMARK [1][-]{section.7.4}{Future Prospects}{chapter.7}% 45
-\BOOKMARK [0][-]{section*.23}{References}{}% 46
-\BOOKMARK [0][-]{appendix.A}{Answers to Questions to this Thesis}{}% 47
-\BOOKMARK [1][-]{section.A.1}{How important is the problem to practice?}{appendix.A}% 48
-\BOOKMARK [1][-]{section.A.2}{How will you know if the solution/s that you will achieve would be better than existing ones?}{appendix.A}% 49
-\BOOKMARK [2][-]{subsection.A.2.1}{How will you measure the improvement/s?}{section.A.2}% 50
-\BOOKMARK [3][-]{subsubsection.A.2.1.1}{What is/are your basis/bases for the improvement/s?}{subsection.A.2.1}% 51
-\BOOKMARK [3][-]{subsubsection.A.2.1.2}{Why did you choose that/those basis/bases?}{subsection.A.2.1}% 52
-\BOOKMARK [3][-]{subsubsection.A.2.1.3}{How significant are your measure/s of the improvement/s?}{subsection.A.2.1}% 53
-\BOOKMARK [1][-]{section.A.3}{What is the difference of the solution/s from existing ones?}{appendix.A}% 54
-\BOOKMARK [2][-]{subsection.A.3.1}{How is it different from previous and existing ones?}{section.A.3}% 55
-\BOOKMARK [1][-]{section.A.4}{What are the assumptions made \(that are behind for your proposed solution to work\)?}{appendix.A}% 56
-\BOOKMARK [2][-]{subsection.A.4.1}{Will your proposed solution/s be sensitive to these assumptions?}{section.A.4}% 57
-\BOOKMARK [2][-]{subsection.A.4.2}{Can your proposed solution/s be applied to more general cases when some of the assumptions are eliminated? If so, how?}{section.A.4}% 58
-\BOOKMARK [1][-]{section.A.5}{What is the necessity of your approach / proposed solution/s?}{appendix.A}% 59
-\BOOKMARK [2][-]{subsection.A.5.1}{What will be the limits of applicability of your proposed solution/s?}{section.A.5}% 60
-\BOOKMARK [2][-]{subsection.A.5.2}{What will be the message of the proposed solution to technical people? How about to non-technical managers and business men?}{section.A.5}% 61
-\BOOKMARK [1][-]{section.A.6}{How will you know if your proposed solution/s is/are correct?}{appendix.A}% 62
-\BOOKMARK [2][-]{subsection.A.6.1}{Will your results warrant the level of mathematics used \(i.e., will the end justify the means\)?}{section.A.6}% 63
-\BOOKMARK [1][-]{section.A.7}{Is/are there an/\137 alternative way/s to get to the same solution/s?}{appendix.A}% 64
-\BOOKMARK [2][-]{subsection.A.7.1}{Can you come up with illustrating examples, or even better, counter examples to your proposed solution/s?}{section.A.7}% 65
-\BOOKMARK [2][-]{subsection.A.7.2}{Is there an approximation that can arrive at the essentially the same proposed solution/s more easily?}{section.A.7}% 66
-\BOOKMARK [1][-]{section.A.8}{If you were the examiner of your proposal, how would you present the proposal in another way?}{appendix.A}% 67
-\BOOKMARK [2][-]{subsection.A.8.1}{What are the weaknesses of your proposal?}{section.A.8}% 68
-\BOOKMARK [0][-]{appendix.B}{Usage Examples}{}% 69
-\BOOKMARK [1][-]{section.B.1}{Equations}{appendix.B}% 70
-\BOOKMARK [1][-]{section.B.2}{Notations}{appendix.B}% 71
-\BOOKMARK [1][-]{section.B.3}{Abbreviation}{appendix.B}% 72
-\BOOKMARK [1][-]{section.B.4}{Glossary}{appendix.B}% 73
-\BOOKMARK [1][-]{section.B.5}{Figure}{appendix.B}% 74
-\BOOKMARK [1][-]{section.B.6}{Table}{appendix.B}% 75
-\BOOKMARK [1][-]{section.B.7}{Algorithm or Pseudocode Listing}{appendix.B}% 76
-\BOOKMARK [1][-]{section.B.8}{Program/Code Listing}{appendix.B}% 77
-\BOOKMARK [1][-]{section.B.9}{Referencing}{appendix.B}% 78
-\BOOKMARK [2][-]{subsection.B.9.1}{A subsection}{section.B.9}% 79
-\BOOKMARK [3][-]{subsubsection.B.9.1.1}{A sub-subsection}{subsection.B.9.1}% 80
-\BOOKMARK [1][-]{section.B.10}{Index}{appendix.B}% 81
-\BOOKMARK [1][-]{section.B.11}{Adding Relevant PDF Pages \(e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.\)}{appendix.B}% 82
-\BOOKMARK [0][-]{appendix.C}{Publication List and Award}{}% 83
-\BOOKMARK [0][-]{appendix.D}{Vita}{}% 84
-\BOOKMARK [0][-]{section*.50}{Index}{}% 85
+\BOOKMARK [1][-]{section.3.1}{Microcontroller based temperature humidity meter using Arduino Platform}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.2}{Discomfort Index}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.3}{Bluetooth Technology}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.4}{Comfortability indicator application at De La Salle university using Android platform}{chapter.3}% 35
+\BOOKMARK [0][-]{chapter.4}{Design Considerations}{}% 36
+\BOOKMARK [1][-]{section.4.1}{Summary}{chapter.4}% 37
+\BOOKMARK [0][-]{chapter.5}{Methodology}{}% 38
+\BOOKMARK [1][-]{section.5.1}{Implementation}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.2}{Evaluation}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.3}{Summary}{chapter.5}% 41
+\BOOKMARK [0][-]{chapter.6}{Results and Discussion}{}% 42
+\BOOKMARK [1][-]{section.6.1}{Summary}{chapter.6}% 43
+\BOOKMARK [0][-]{chapter.7}{Conclusions, Recommendations, and Future Directives}{}% 44
+\BOOKMARK [1][-]{section.7.1}{Concluding Remarks}{chapter.7}% 45
+\BOOKMARK [1][-]{section.7.2}{Contributions}{chapter.7}% 46
+\BOOKMARK [1][-]{section.7.3}{Recommendations}{chapter.7}% 47
+\BOOKMARK [1][-]{section.7.4}{Future Prospects}{chapter.7}% 48
+\BOOKMARK [0][-]{section*.22}{References}{}% 49
+\BOOKMARK [0][-]{appendix.A}{Answers to Questions to this Thesis}{}% 50
+\BOOKMARK [1][-]{section.A.1}{How important is the problem to practice?}{appendix.A}% 51
+\BOOKMARK [1][-]{section.A.2}{How will you know if the solution/s that you will achieve would be better than existing ones?}{appendix.A}% 52
+\BOOKMARK [2][-]{subsection.A.2.1}{How will you measure the improvement/s?}{section.A.2}% 53
+\BOOKMARK [3][-]{subsubsection.A.2.1.1}{What is/are your basis/bases for the improvement/s?}{subsection.A.2.1}% 54
+\BOOKMARK [3][-]{subsubsection.A.2.1.2}{Why did you choose that/those basis/bases?}{subsection.A.2.1}% 55
+\BOOKMARK [3][-]{subsubsection.A.2.1.3}{How significant are your measure/s of the improvement/s?}{subsection.A.2.1}% 56
+\BOOKMARK [1][-]{section.A.3}{What is the difference of the solution/s from existing ones?}{appendix.A}% 57
+\BOOKMARK [2][-]{subsection.A.3.1}{How is it different from previous and existing ones?}{section.A.3}% 58
+\BOOKMARK [1][-]{section.A.4}{What are the assumptions made \(that are behind for your proposed solution to work\)?}{appendix.A}% 59
+\BOOKMARK [2][-]{subsection.A.4.1}{Will your proposed solution/s be sensitive to these assumptions?}{section.A.4}% 60
+\BOOKMARK [2][-]{subsection.A.4.2}{Can your proposed solution/s be applied to more general cases when some of the assumptions are eliminated? If so, how?}{section.A.4}% 61
+\BOOKMARK [1][-]{section.A.5}{What is the necessity of your approach / proposed solution/s?}{appendix.A}% 62
+\BOOKMARK [2][-]{subsection.A.5.1}{What will be the limits of applicability of your proposed solution/s?}{section.A.5}% 63
+\BOOKMARK [2][-]{subsection.A.5.2}{What will be the message of the proposed solution to technical people? How about to non-technical managers and business men?}{section.A.5}% 64
+\BOOKMARK [1][-]{section.A.6}{How will you know if your proposed solution/s is/are correct?}{appendix.A}% 65
+\BOOKMARK [2][-]{subsection.A.6.1}{Will your results warrant the level of mathematics used \(i.e., will the end justify the means\)?}{section.A.6}% 66
+\BOOKMARK [1][-]{section.A.7}{Is/are there an/\137 alternative way/s to get to the same solution/s?}{appendix.A}% 67
+\BOOKMARK [2][-]{subsection.A.7.1}{Can you come up with illustrating examples, or even better, counter examples to your proposed solution/s?}{section.A.7}% 68
+\BOOKMARK [2][-]{subsection.A.7.2}{Is there an approximation that can arrive at the essentially the same proposed solution/s more easily?}{section.A.7}% 69
+\BOOKMARK [1][-]{section.A.8}{If you were the examiner of your proposal, how would you present the proposal in another way?}{appendix.A}% 70
+\BOOKMARK [2][-]{subsection.A.8.1}{What are the weaknesses of your proposal?}{section.A.8}% 71
+\BOOKMARK [0][-]{appendix.B}{Usage Examples}{}% 72
+\BOOKMARK [1][-]{section.B.1}{Equations}{appendix.B}% 73
+\BOOKMARK [1][-]{section.B.2}{Notations}{appendix.B}% 74
+\BOOKMARK [1][-]{section.B.3}{Abbreviation}{appendix.B}% 75
+\BOOKMARK [1][-]{section.B.4}{Glossary}{appendix.B}% 76
+\BOOKMARK [1][-]{section.B.5}{Figure}{appendix.B}% 77
+\BOOKMARK [1][-]{section.B.6}{Table}{appendix.B}% 78
+\BOOKMARK [1][-]{section.B.7}{Algorithm or Pseudocode Listing}{appendix.B}% 79
+\BOOKMARK [1][-]{section.B.8}{Program/Code Listing}{appendix.B}% 80
+\BOOKMARK [1][-]{section.B.9}{Referencing}{appendix.B}% 81
+\BOOKMARK [2][-]{subsection.B.9.1}{A subsection}{section.B.9}% 82
+\BOOKMARK [3][-]{subsubsection.B.9.1.1}{A sub-subsection}{subsection.B.9.1}% 83
+\BOOKMARK [1][-]{section.B.10}{Index}{appendix.B}% 84
+\BOOKMARK [1][-]{section.B.11}{Adding Relevant PDF Pages \(e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.\)}{appendix.B}% 85
+\BOOKMARK [0][-]{appendix.C}{Publication List and Award}{}% 86
+\BOOKMARK [0][-]{appendix.D}{Vita}{}% 87
+\BOOKMARK [0][-]{section*.49}{Index}{}% 88
