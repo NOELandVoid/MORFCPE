@@ -44,76 +44,76 @@
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{23}{chapter.4}
 \ttl@stoptoc {chapters@3}
 \ttl@starttoc {chapters@4}
-\contentsline {section}{\numberline {4.1}Summary}{26}{section.4.1}
+\contentsline {section}{\numberline {4.1}Summary}{27}{section.4.1}
 \ttl@stoptoc {chapters@4}
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{27}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{29}{chapter.5}
 \ttl@stoptoc {chapters@4}
 \ttl@starttoc {chapters@5}
-\contentsline {section}{\numberline {5.1}Implementation}{28}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Planning}{28}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Initial Prototype}{29}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Second Prototype}{29}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Final Prototype}{30}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}Integration of Communication Devices}{30}{subsection.5.1.5}
-\contentsline {section}{\numberline {5.2}Evaluation}{30}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Quantitative Approach}{31}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Crowdsourcing Approach}{31}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Summary}{32}{section.5.3}
+\contentsline {section}{\numberline {5.1}Implementation}{30}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Planning}{30}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Initial Prototype}{31}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Second Prototype}{31}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Final Prototype}{32}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Integration of Communication Devices}{32}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Evaluation}{32}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Quantitative Approach}{33}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Crowdsourcing Approach}{33}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Summary}{34}{section.5.3}
 \ttl@stoptoc {chapters@5}
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{33}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{35}{chapter.6}
 \ttl@stoptoc {chapters@5}
 \ttl@starttoc {chapters@6}
-\contentsline {section}{\numberline {6.1}Summary}{35}{section.6.1}
+\contentsline {section}{\numberline {6.1}Summary}{39}{section.6.1}
 \ttl@stoptoc {chapters@6}
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{36}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{42}{chapter.7}
 \ttl@stoptoc {chapters@6}
 \ttl@starttoc {chapters@7}
-\contentsline {section}{\numberline {7.1}Concluding Remarks}{37}{section.7.1}
-\contentsline {section}{\numberline {7.2}Contributions}{37}{section.7.2}
-\contentsline {section}{\numberline {7.3}Recommendations}{37}{section.7.3}
-\contentsline {section}{\numberline {7.4}Future Prospects}{39}{section.7.4}
+\contentsline {section}{\numberline {7.1}Concluding Remarks}{43}{section.7.1}
+\contentsline {section}{\numberline {7.2}Contributions}{44}{section.7.2}
+\contentsline {section}{\numberline {7.3}Recommendations}{44}{section.7.3}
+\contentsline {section}{\numberline {7.4}Future Prospects}{45}{section.7.4}
 \ttl@stoptoc {chapters@7}
-\contentsline {chapter}{References}{40}{section*.27}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{41}{appendix.A}
+\contentsline {chapter}{References}{46}{section*.31}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{47}{appendix.A}
 \ttl@stoptoc {chapters@7}
 \ttl@starttoc {chapters@8}
-\contentsline {section}{\numberline {A1}How important is the problem to practice?}{42}{section.A.1}
-\contentsline {section}{\numberline {A2}How will you know if the solution/s that you will achieve would be better than existing ones?}{42}{section.A.2}
-\contentsline {subsection}{\numberline {A2.1}How will you measure the improvement/s?}{42}{subsection.A.2.1}
-\contentsline {subsubsection}{\numberline {A2.1.1}What is/are your basis/bases for the improvement/s?}{42}{subsubsection.A.2.1.1}
-\contentsline {subsubsection}{\numberline {A2.1.2}Why did you choose that/those basis/bases?}{43}{subsubsection.A.2.1.2}
-\contentsline {subsubsection}{\numberline {A2.1.3}How significant are your measure/s of the improvement/s?}{43}{subsubsection.A.2.1.3}
-\contentsline {section}{\numberline {A3}What is the difference of the solution/s from existing ones?}{43}{section.A.3}
-\contentsline {subsection}{\numberline {A3.1}How is it different from previous and existing ones?}{43}{subsection.A.3.1}
-\contentsline {section}{\numberline {A4}What are the assumptions made (that are behind for your proposed solution to work)?}{44}{section.A.4}
-\contentsline {subsection}{\numberline {A4.1}Will your proposed solution/s be sensitive to these assumptions?}{44}{subsection.A.4.1}
-\contentsline {subsection}{\numberline {A4.2}Can your proposed solution/s be applied to more general cases when some of the assumptions are eliminated? If so, how?}{44}{subsection.A.4.2}
-\contentsline {section}{\numberline {A5}What is the necessity of your approach / proposed solution/s?}{45}{section.A.5}
-\contentsline {subsection}{\numberline {A5.1}What will be the limits of applicability of your proposed\nobreakspace {}solution/s?}{45}{subsection.A.5.1}
-\contentsline {subsection}{\numberline {A5.2}What will be the message of the proposed solution to technical people? How about to non-technical managers and business men?}{45}{subsection.A.5.2}
-\contentsline {section}{\numberline {A6}How will you know if your proposed solution/s is/are correct?}{46}{section.A.6}
-\contentsline {subsection}{\numberline {A6.1}Will your results warrant the level of mathematics used (i.e., will the end justify the means)?}{46}{subsection.A.6.1}
-\contentsline {section}{\numberline {A7}Is/are there an/\_ alternative way/s to get to the same solution/s?}{46}{section.A.7}
-\contentsline {subsection}{\numberline {A7.1}Can you come up with illustrating examples, or even better, counter examples to your proposed solution/s?}{47}{subsection.A.7.1}
-\contentsline {subsection}{\numberline {A7.2}Is there an approximation that can arrive at the essentially the same proposed solution/s more easily?}{47}{subsection.A.7.2}
-\contentsline {section}{\numberline {A8}If you were the examiner of your proposal, how would you present the proposal in another way?}{47}{section.A.8}
-\contentsline {subsection}{\numberline {A8.1}What are the weaknesses of your proposal?}{48}{subsection.A.8.1}
+\contentsline {section}{\numberline {A1}How important is the problem to practice?}{48}{section.A.1}
+\contentsline {section}{\numberline {A2}How will you know if the solution/s that you will achieve would be better than existing ones?}{48}{section.A.2}
+\contentsline {subsection}{\numberline {A2.1}How will you measure the improvement/s?}{48}{subsection.A.2.1}
+\contentsline {subsubsection}{\numberline {A2.1.1}What is/are your basis/bases for the improvement/s?}{48}{subsubsection.A.2.1.1}
+\contentsline {subsubsection}{\numberline {A2.1.2}Why did you choose that/those basis/bases?}{48}{subsubsection.A.2.1.2}
+\contentsline {subsubsection}{\numberline {A2.1.3}How significant are your measure/s of the improvement/s?}{48}{subsubsection.A.2.1.3}
+\contentsline {section}{\numberline {A3}What is the difference of the solution/s from existing ones?}{49}{section.A.3}
+\contentsline {subsection}{\numberline {A3.1}How is it different from previous and existing ones?}{49}{subsection.A.3.1}
+\contentsline {section}{\numberline {A4}What are the assumptions made (that are behind for your proposed solution to work)?}{49}{section.A.4}
+\contentsline {subsection}{\numberline {A4.1}Will your proposed solution/s be sensitive to these assumptions?}{49}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A4.2}Can your proposed solution/s be applied to more general cases when some of the assumptions are eliminated? If so, how?}{49}{subsection.A.4.2}
+\contentsline {section}{\numberline {A5}What is the necessity of your approach/proposed solution/s?}{50}{section.A.5}
+\contentsline {subsection}{\numberline {A5.1}What will be the limits of applicability of your proposed\nobreakspace {}solution/s?}{50}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A5.2}What will be the message of the proposed solution to technical people? How about to non-technical managers and business men?}{50}{subsection.A.5.2}
+\contentsline {section}{\numberline {A6}How will you know if your proposed solution/s is/are correct?}{50}{section.A.6}
+\contentsline {subsection}{\numberline {A6.1}Will your results warrant the level of mathematics used (i.e., will the end justify the means)?}{50}{subsection.A.6.1}
+\contentsline {section}{\numberline {A7}Is/are there an/\_ alternative way/s to get to the same solution/s?}{51}{section.A.7}
+\contentsline {subsection}{\numberline {A7.1}Can you come up with illustrating examples, or even better, counter examples to your proposed solution/s?}{51}{subsection.A.7.1}
+\contentsline {subsection}{\numberline {A7.2}Is there an approximation that can arrive at the essentially the same proposed solution/s more easily?}{51}{subsection.A.7.2}
+\contentsline {section}{\numberline {A8}If you were the examiner of your proposal, how would you present the proposal in another way?}{51}{section.A.8}
+\contentsline {subsection}{\numberline {A8.1}What are the weaknesses of your proposal?}{51}{subsection.A.8.1}
 \ttl@stoptoc {chapters@8}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{49}{appendix.B}
-\contentsline {section}{\numberline {B1}Equations}{50}{section.B.1}
-\contentsline {section}{\numberline {B2}Notations}{52}{section.B.2}
-\contentsline {section}{\numberline {B3}Abbreviation}{58}{section.B.3}
-\contentsline {section}{\numberline {B4}Glossary}{60}{section.B.4}
-\contentsline {section}{\numberline {B5}Figure}{61}{section.B.5}
-\contentsline {section}{\numberline {B6}Table}{67}{section.B.6}
-\contentsline {section}{\numberline {B7}Algorithm or Pseudocode Listing}{71}{section.B.7}
-\contentsline {section}{\numberline {B8}Program/Code Listing}{73}{section.B.8}
-\contentsline {section}{\numberline {B9}Referencing}{75}{section.B.9}
-\contentsline {subsection}{\numberline {B9.1}A subsection}{76}{subsection.B.9.1}
-\contentsline {subsubsection}{\numberline {B9.1.1}A sub-subsection}{77}{subsubsection.B.9.1.1}
-\contentsline {section}{\numberline {B10}Index}{78}{section.B.10}
-\contentsline {section}{\numberline {B11}Adding Relevant PDF Pages (e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.)}{79}{section.B.11}
-\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{83}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{85}{appendix.D}
-\contentsline {chapter}{Index}{87}{section*.54}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{52}{appendix.B}
+\contentsline {section}{\numberline {B1}Equations}{53}{section.B.1}
+\contentsline {section}{\numberline {B2}Notations}{55}{section.B.2}
+\contentsline {section}{\numberline {B3}Abbreviation}{61}{section.B.3}
+\contentsline {section}{\numberline {B4}Glossary}{63}{section.B.4}
+\contentsline {section}{\numberline {B5}Figure}{64}{section.B.5}
+\contentsline {section}{\numberline {B6}Table}{70}{section.B.6}
+\contentsline {section}{\numberline {B7}Algorithm or Pseudocode Listing}{74}{section.B.7}
+\contentsline {section}{\numberline {B8}Program/Code Listing}{76}{section.B.8}
+\contentsline {section}{\numberline {B9}Referencing}{78}{section.B.9}
+\contentsline {subsection}{\numberline {B9.1}A subsection}{79}{subsection.B.9.1}
+\contentsline {subsubsection}{\numberline {B9.1.1}A sub-subsection}{80}{subsubsection.B.9.1.1}
+\contentsline {section}{\numberline {B10}Index}{81}{section.B.10}
+\contentsline {section}{\numberline {B11}Adding Relevant PDF Pages (e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.)}{82}{section.B.11}
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{86}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{88}{appendix.D}
+\contentsline {chapter}{Index}{90}{section*.58}
 \contentsfinish 
