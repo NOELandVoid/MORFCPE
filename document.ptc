@@ -17,11 +17,11 @@
 \contentsline {section}{\numberline {1.4}Objectives}{5}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}General Objective(s)}{5}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{5}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Significance of the Study}{5}{section.1.5}
+\contentsline {section}{\numberline {1.5}Significance of the Study}{6}{section.1.5}
 \contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{6}{section.1.6}
 \contentsline {section}{\numberline {1.7}Description and Methodology}{7}{section.1.7}
-\contentsline {section}{\numberline {1.8}Estimated Work Schedule and Budget}{10}{section.1.8}
-\contentsline {section}{\numberline {1.9}Overview}{10}{section.1.9}
+\contentsline {section}{\numberline {1.8}Estimated Work Schedule and Budget}{8}{section.1.8}
+\contentsline {section}{\numberline {1.9}Overview}{11}{section.1.9}
 \ttl@stoptoc {chapters@1}
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{12}{chapter.2}
 \ttl@stoptoc {chapters@1}
@@ -44,7 +44,7 @@
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{23}{chapter.4}
 \ttl@stoptoc {chapters@3}
 \ttl@starttoc {chapters@4}
-\contentsline {section}{\numberline {4.1}Summary}{28}{section.4.1}
+\contentsline {section}{\numberline {4.1}Summary}{29}{section.4.1}
 \ttl@stoptoc {chapters@4}
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{30}{chapter.5}
 \ttl@stoptoc {chapters@4}
@@ -73,7 +73,7 @@
 \contentsline {section}{\numberline {7.3}Recommendations}{45}{section.7.3}
 \contentsline {section}{\numberline {7.4}Future Prospects}{46}{section.7.4}
 \ttl@stoptoc {chapters@7}
-\contentsline {chapter}{References}{47}{section*.31}
+\contentsline {chapter}{References}{47}{section*.32}
 \contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{48}{appendix.A}
 \ttl@stoptoc {chapters@7}
 \ttl@starttoc {chapters@8}
@@ -115,5 +115,5 @@
 \contentsline {section}{\numberline {B11}Adding Relevant PDF Pages (e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.)}{83}{section.B.11}
 \contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{87}{appendix.C}
 \contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{89}{appendix.D}
-\contentsline {chapter}{Index}{91}{section*.58}
+\contentsline {chapter}{Index}{91}{section*.59}
 \contentsfinish 

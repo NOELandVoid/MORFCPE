@@ -2,7 +2,7 @@
 
 There has been many reasons why one tries to avoid any outdoor activity but one of these is how the air feels whether it is too hot or too polluted or even both. One undeniable fact is that heat and humidity all play roles in making the weather hot. Both of these weather parameters are involved in the calculation of the heat index and the discomfort index.
 \par \noindent
-Heat index and discomfort index have their similarities because the factors that affect these two are the temperature and the relative humidity. The heat index is the perceived temperature by people when the rising temperature and the relative humidity is combined. The unit used here is a unit of temperature and the mathematical formula for computing the heat index shows a rather direct square proportionality with the temperature and the humidity. But when it comes to a more human readable scale, reaching 34 degrees Celsius is already a discomfort to some. Reaching at least 46 degrees Celsius is already dangerous to all as this can cause heat stroke and even imminent death to some people. The discomfort index is similar to the heat index but instead, its mathematical formula only indicates a direct proportionality with the temperature and the relative humidity. The scaling is rather similar to that in the heat index. When the discomfort index reaches at least 21 degrees Celsius, it is already a discomfort for some people. Reaching 29 degrees Celsius is already dangerous to all that when it even gets higher, a state of emergency can be declared.
+Discomfort index is a measure of discomfort derived from the temperature and humidity. Heat index and discomfort index have their similarities because the factors that affect these two are the temperature and the relative humidity. The heat index is the perceived temperature by people when the rising temperature and the relative humidity is combined. The unit used here is a unit of temperature and the mathematical formula for computing the heat index shows a rather direct square proportionality with the temperature and the humidity. But when it comes to a more human readable scale, reaching 34 degrees Celsius is already a discomfort to some. Reaching at least 46 degrees Celsius is already dangerous to all as this can cause heat stroke and even imminent death to some people. The discomfort index is similar to the heat index but instead, its mathematical formula only indicates a direct proportionality with the temperature and the relative humidity. The scaling is rather similar to that in the heat index. When the discomfort index reaches at least 21 degrees Celsius, it is already a discomfort for some people. Reaching 29 degrees Celsius is already dangerous to all that when it even gets higher, a state of emergency can be declared.
 \par \noindent
 The human body is capable of regulating body temperature because of its abilities as a warm-blooded organism. When the human body detects extreme temperatures, it drastically adjusts the body just to get the internal temperature back to a normal 37 degrees Celsius. When your body detects a lot of heat, it tries to cool itself down by increasing your heart rate and sweating. However, one can sweat too much, he feels drained by the lack of fluids in his body causing discomfort, weakness, loss of stamina, and even muscle pains, leading to a heat stroke.
 \par \noindent
@@ -12,8 +12,7 @@ This study will focus on a mobile application that enables people to have a fore
 
 \section{Prior Studies}
 
-Some of the studies that the group has found are about the temperature and humidity monitoring systems. The temperature system can be constructed by using a simple microcontroller-based system with an important tool, the LM35 where the output voltage is directly proportional to the temperature detected. The same procedure can be done with the humidity sensor but this time, it does not make use of the LM35. Both of these sensors are good for agricultural applications and getting the air quality. Another study involves the use of PM10 sensors in order to detect particulate matter that is 10 micrometers wide. An algorithm has been made with the use of the atmospheric reflectance for temporal monitoring. Another study introduces another concept of air monitoring by taking note of the pollutants present which are namely carbon monoxide, PM 2.5 , and ozone which make use of the MQ-7 4
-sensor, MQ-131 sensor, and Sharp dust sensor respectively. Another study made use of getting the discomfort index by using temperature, humidity, atmospheric pressure, and carbon dioxide sensors. Finally, a study states the standards set by different parts of the world when it comes to the air quality. These standards all make use of the amount of pollutants present in the air as basis of air quality.
+Some of the studies, specifically \cite{Aji} and \cite{Chavan} that the group has found are about the temperature and humidity monitoring systems. The temperature system can be constructed by using a simple microcontroller-based system with an important tool, the LM35 where the output voltage is directly proportional to the temperature detected. The same procedure can be done with the humidity sensor but this time, it does not make use of the LM35. Both of these sensors are good for agricultural applications and getting the air quality. Another study which is \cite{Folea} involves the use of PM10 sensors in order to detect particulate matter that is 10 micrometers wide. An algorithm has been made with the use of the atmospheric reflectance for temporal monitoring. Another study introduces another concept of air monitoring by taking note of the pollutants present which are namely carbon monoxide, PM 2.5 , and ozone which make use of the MQ-7 4 sensor, MQ-131 sensor, and Sharp dust sensor respectively. Another study made use of getting the discomfort index by using temperature, humidity, atmospheric pressure, and carbon dioxide sensors. Finally, a study states the standards set by different parts of the world when it comes to the air quality. These standards all make use of the amount of pollutants present in the air as basis of air quality.
 
 
 
@@ -27,7 +26,7 @@ Can a mobile application be developed to report real time conditions of the air 
 
 \section{Objectives}
 \subsection{General Objective(s)}
-To design and develop an indoor/outdoor system for getting the discomfort index of the air\ldots;
+To design and develop an indoor/outdoor system for getting the discomfort index of the air;
 
 \subsection{Specific Objectives}
 
@@ -70,13 +69,13 @@ The significance of this topic is to be able to design and produce a device of c
 
 \section{Description and Methodology}
 
-A device for checking air quality and discomfort index can be functional through the use of the electronic sensors attached in the circuit and sensors for dust, humidity, and temperature will provide the data for air quality index and discomfort index. The device will be user friendly so that anyone can easily control and use it for the given purpose.The goal for this project is to come up with a device and android application for air quality and discomfort index which will provide data related to the health of the public.  Challenges to this project would be the design of the circuit with indicated sensors and the accuracy of the data gathered by the device. The size of the device matters because it has to be user friendly and this will be designed for the typical citizens like commuters. The prototype test  would determine if it has accurate data and user friendly in general. Android application will be supporting the device as a method of health awareness. the application will be able to show the data gathered in the device and show the effect of air quality index and discomfort index for respiratory health. The information is also one of the important part because people must know why it is important to know the air quality and their discomfort level. The information from the Arduino will be passed on to the HC-06 Bluetooth module in order to relay the information to an Android phone.  With the use of crowd sourcing, any Android phone can update the discomfort index and other information from the sensors that will be stored in a firebase database and another phone can access these data.  
-
-
+A device for air quality and discomfort index can be functional with the use of electronic sensors for dust, humidity, and temperature which will provide data for air quality index and discomfort index. It will be user friendly so that anyone can easily use it for the given purpose. This project aims to come up with a device and android application for air quality and discomfort index which will provide data related to the health of the public. Challenges to this project would be the circuit design and the accuracy of data gathered by the device. The size of the device matters because it has to be user-friendly and this will be designed for the typical citizens like commuters. The prototype test would determine if it has accurate data and a user-friendly interface. An Android application will be supporting the device as a method of health awareness and this will be able to show the data gathered in the device and the effect of air quality index and discomfort index for respiratory health. This is also one of the important parts because people must know why it is important to know the air quality and their discomfort level. Information from the Arduino will be transmitted via a HC-06 Bluetooth module to an Android phone. With crowd sourcing, any Android phone can update the discomfort index and other information from the sensors that will be stored in a firebase database and another phone can access these data. %Essentially, 
 
 \section{Estimated Work Schedule and Budget}
+.\\
+
 % Table generated by Excel2LaTeX from sheet 'Sheet1'
-\begin{table}[htbp]
+\begin{table}[htp]
   \centering
   \caption{Gannt Chart Part 1}
     \begin{tabular}{rrrrrrrrr}
@@ -119,34 +118,71 @@ A device for checking air quality and discomfort index can be functional through
 \begin{table}[htbp]
   \centering
   \caption{Gannt Chart Part 2}
-    \begin{tabular}{rrrrrrrrrr}
+    \begin{tabular}{rrrrrrr}
     \toprule
-      &   &   & W8 & W9 & W10 & W11 & W12 & W13 & W14 \\
+      &   & W7 & W8 & W9 & W10 & W11 \\
     \midrule
-      &   &   &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Research for a topic} &   &   &   &   &   &   &   &  \\
-    \multicolumn{3}{r}{Submission of proposed topic} &   &   &   &   &   &   &  \\
-    \multicolumn{3}{r}{Background of the study} &   &   &   &   &   &   &  \\
-    \multicolumn{3}{r}{Statement of the problem} &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Objectives} &   &   &   &   &   &   &   &  \\
-    \multicolumn{3}{r}{Scope and delimitation} &   &   &   &   &   &   &  \\
-    \multicolumn{3}{r}{Review of related literature} &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Methodology} &   &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Individual Research} &   & All & All & All & All & All &   &  \\
-    \multicolumn{2}{r}{Schematic diagram} &   &   &   &   &   &   &   &  \\
-    Sensor Collection &   &   & JC, RN &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Sensor Testing} &   &   & All & All & All & All &   &  \\
-    \multicolumn{2}{r}{Arduino programming} &   & NP & NP & NP & NP & NP &   &  \\
-    \multicolumn{3}{r}{Android programming} & JC, RN & JC, RN & JC, RN & JC, RN & JC, RN &   &  \\
-    \multicolumn{2}{r}{Android layout} &   &   &   & RP, RN & RP, RN & RP, RN &   &  \\
-    \multicolumn{2}{r}{OpenCV Integration} &   & RP & RP & RP & RP &   &   &  \\
-    \multicolumn{2}{r}{Board design} &   &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Board layout} &   &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Fabrication} &   &   &   &   &   &   &   &  \\
-    \multicolumn{2}{r}{Mounting} &   &   &   &   &   &   &   &  \\
-    \multicolumn{3}{r}{Proofreading and Revisions} &   &   &   &   &   & All & All \\
-    \multicolumn{3}{r}{Final documentation} &   &   &   &   &   & All & All \\
-    Defense &   &   &   &   &   &   &   &   & All \\
+      &   &   &   &   &   &  \\
+    Research for a topic &   &   &   &   &   &  \\
+    Submission of proposed topic &   &   &   &   &   &  \\
+    Background of the study &   &   &   &   &   &  \\
+    Statement of the problem &   &   &   &   &   &  \\
+    Objectives &   &   &   &   &   &  \\
+    Scope and delimitation &   &   &   &   &   &  \\
+    Review of related literature &   &   &   &   &   &  \\
+    Methodology &   &   &   &   &   &  \\
+    Individual Research &   & All & All & All & All & All \\
+    Schematic diagram &   &   &   &   &   &  \\
+    Sensor Collection &   & JC, RN & JC, RN &   &   &  \\
+    Sensor Testing &   &   &   & All & All & All \\
+    Arduino programming &   & NP & NP & NP & NP & NP \\
+    Android programming &   & JC, RN & JC, RN & JC, RN & JC, RN & JC, RN \\
+    Android layout &   &   &   &   & RP, RN & RP, RN \\
+    OpenCV Integration &   & RP & RP & RP & RP & RP \\
+    Board design &   &   &   &   &   &  \\
+    Board layout &   &   &   &   &   &  \\
+    Fabrication &   &   &   &   &   &  \\
+    Mounting &   &   &   &   &   &  \\
+    Proofreading and Revisions &   &   &   &   &   &  \\
+    Final documentation &   &   &   &   &   &  \\
+    Defense &   &   &   &   &   &  \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+% Table generated by Excel2LaTeX from sheet 'Sheet1'
+\begin{table}[htbp]
+  \centering
+  \caption{Gannt Chart Part 3}
+    \begin{tabular}{rrrrr}
+    \toprule
+      &   & W12 & W13 & W14 \\
+    \midrule
+      &   &   &   &  \\
+    Research for a topic &   &   &   &  \\
+    Submission of proposed topic &   &   &   &  \\
+    Background of the study &   &   &   &  \\
+    Statement of the problem &   &   &   &  \\
+    Objectives &   &   &   &  \\
+    Scope and delimitation &   &   &   &  \\
+    Review of related literature &   &   &   &  \\
+    Methodology &   &   &   &  \\
+    Individual Research &   & All &   &  \\
+    Schematic diagram &   &   &   &  \\
+    Sensor Collection &   &   &   &  \\
+    Sensor Testing &   & All &   &  \\
+    Arduino programming &   & NP &   &  \\
+    Android programming &   & JC, RN &   &  \\
+    Android layout &   & RP, RN &   &  \\
+    OpenCV Integration &   &   &   &  \\
+    Board design &   &   &   &  \\
+    Board layout &   &   &   &  \\
+    Fabrication &   &   &   &  \\
+    Mounting &   &   &   &  \\
+    Proofreading and Revisions &   &   & All & All \\
+    Final documentation &   &   & All & All \\
+    Defense &   &   &   & All \\
     \bottomrule
     \end{tabular}%
   \label{tab:addlabel}%
@@ -154,7 +190,7 @@ A device for checking air quality and discomfort index can be functional through
 
 \begin{table}[htbp]
   \centering
-  \caption{Gannt Chart Legend}
+  \caption{ }
     \begin{tabular}{rr}
     \toprule
     \multicolumn{2}{c}{LEGEND:} \\

@@ -12,3 +12,8 @@ A level-1 auxiliary file: usage_examples.aux
 A level-1 auxiliary file: publication.aux
 A level-1 auxiliary file: vita.aux
 Database file #1: references.bib
+Warning--I didn't find a database entry for "Oetiker2014"
+Warning--I didn't find a database entry for "ISO800002"
+Warning--to sort, need author or key in Calculator
+Warning--empty year in Calculator
+(There were 4 warnings)

@@ -1,4 +1,4 @@
-\includegraphics[width=\textwidth]{BlockDiagram}
+\includegraphics{BlockDiagram}
 
 \begin{center}
 Figure 4.1. System Model of the Project
@@ -15,7 +15,7 @@ Figure 4.1. System Model of the Project
 Figure 4.2. System Flowchart
 \end{center}
 
-\includegraphics[width=\textwidth]{CurrentProgress}
+\includegraphics{CurrentProgress}
 
 \begin{center}
 Figure 4.3. Circuit Configuration for Testing the DHT-11
@@ -104,9 +104,14 @@ void sendAndroidValues(float t, float h, float di)
 
 \end{lstlisting}
 
+
 \begin{center}
 Figure 4.4. Code for Temperature and Humidity Gathering with Bluetooth Transmission
 \end{center}
+
+
+This code is to be utilized in using the DHT-11 sensor in getting the humidity and temperature. This code is file that is part of the DHT library for Arduino systems.
+
 \begin{center}
 \begin{eqnarray}
 DI = T-0.55(1-0.01H)(T-14.5)
@@ -116,6 +121,8 @@ DI = T-0.55(1-0.01H)(T-14.5)
 \begin{center}
 Figure 4.5. Formula for Discomfort Index
 \end{center}
+
+This is the formula from \cite{Calculator} that is used to calculate the discomfort index where DI is the discomfort index, T is the temperature, and H is the humidity.
 
 \section{Summary}
 
